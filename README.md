@@ -1,4 +1,4 @@
-# patternDetector
+# Pattern Detector
 This is a design pattern detection tool to detect patterns in a container-based architecture. You can install it in different modes. This is described in german. The following application is also available at docker hub. This tool should only be executed with a Kubernetes cluster.
 
 Empfohlene Entwicklungsumgebung zur Codebearbeitung ohne Ausführung
